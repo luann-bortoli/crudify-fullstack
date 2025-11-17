@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100px;
+    width: 100vw;
+
+    background-color: var(--white);
+    
+    .logo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img{
+            height: 24px;
+            margin-right: 4px;
+        }
+
+        p{
+            font-size: 26px;
+            font-weight: bolder;
+        }
+    }
+}

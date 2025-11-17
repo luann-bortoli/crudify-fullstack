@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+
+    .itemContainer{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+
+        height: 100%;
+        width: 25%;
+        padding: 0 10px;    
+        margin-right: 10px;
+
+        &:first-child{
+            width: 78px;
+        }
+
+        p{
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    }
+}

@@ -1,0 +1,103 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 800px;
+
+    margin: 50px auto;
+    background-color: var(--white);
+
+    .searchContainer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        width: 100%;
+
+        input{
+            width: 500px;
+            background-color: var(--off-white);
+            border: none;
+            outline: none;
+            padding: 10px 50px 10px 10px;
+            margin: 20px 0;
+            border-bottom: solid var(--white) 2px;
+            transition: border .2s ease-in-out;
+
+            &:focus{
+                border-bottom: solid var(--black) 2px;
+            }
+
+            &:first-child{
+                width: 120px;
+                margin-right: 20px;
+            }
+
+            
+        }
+    }
+
+    .controlContainer{
+        display: flex;
+        justify-content: right;
+        align-items: center;
+
+        width: 100%;
+        margin-right: 20px;
+
+        .controlButton{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: var(--black);
+            color: var(--white);
+            border: none;
+            outline: none;
+            padding: 10px 15px;
+            border-radius: 6px;
+            margin: 0 10px 50px 0;
+
+            &:hover{
+                cursor: pointer;
+            }
+
+            img{
+                height: 18px;
+                margin-right: 5px;
+            }
+        }
+    }
+
+    .dataTable{
+        width: 100%;
+        
+        .dataSections{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            height: 30px;
+            width: 100%;
+            background-color: var(--black);
+
+            p{
+                display: flex;
+                justify-content: start;
+                align-items: center;
+
+                height: 100%;
+                width: 30%;
+                padding: 0 10px;
+                color: var(--white);
+
+                &:first-child{
+                    width: 100px;
+                }
+            }
+
+            
+        }
+    }
+}
