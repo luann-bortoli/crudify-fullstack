@@ -8,6 +8,7 @@
   --off-white-2: #EBEBEB;
 
   font-family: 'Varela Round', sans-serif;
+  overflow-x: hidden;
 }
 
 body{
