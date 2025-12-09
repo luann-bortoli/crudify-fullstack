@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "nome": "marcos oliveira",
+    "email": "marcos.oliveira@email.com",
+    "telefone": "(11) 9 1234-5678"
+  },
+  {
+    "ID": 2,
+    "nome": "maria santos",
+    "email": "maria.santos@email.com",
+    "telefone": "(21) 9 8765-4321"
+  },
+  {
+    "ID": 3,
+    "nome": "joao pereira",
+    "email": "joao.pereira@email.com",
+    "telefone": "(31) 9 2345-6789"
+  },
+  {
+    "ID": 4,
+    "nome": "ana carvalho",
+    "email": "ana.carvalho@email.com",
+    "telefone": "(41) 9 3456-7890"
+  },
+  {
+    "ID": 5,
+    "nome": "pedro alves",
+    "email": "pedro.alves@email.com",
+    "telefone": "(51) 9 4567-8901"
+  },
+  {
+    "ID": 6,
+    "nome": "juliana rodrigues",
+    "email": "juliana.rodrigues@email.com",
+    "telefone": "(61) 9 5678-9012"
+  },
+  {
+    "ID": 7,
+    "nome": "carlos lima",
+    "email": "carlos.lima@email.com",
+    "telefone": "(71) 9 6789-0123"
+  },
+  {
+    "ID": 8,
+    "nome": "patricia melo",
+    "email": "patricia.melo@email.com",
+    "telefone": "(81) 9 7890-1234"
+  },
+  {
+    "ID": 9,
+    "nome": "rafael costa",
+    "email": "rafael.costa@email.com",
+    "telefone": "(91) 9 8901-2345"
+  },
+  {
+    "ID": 10,
+    "nome": "isabela ramos",
+    "email": "isabela.ramos@email.com",
+    "telefone": "(99) 9 9012-3456"
+  }
+]
