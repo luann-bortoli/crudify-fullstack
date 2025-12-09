@@ -1,5 +1,5 @@
 # CRUD de Clientes - React + Flask
-Este é um projeto de exemplo que implementa um CRUD de clientes, utilizando React.js no frontend e Python com Flask no backend. Os dados dos clientes são armazenados em um arquivo JSON, simulando um banco de dados simples.
+Aplicação fullstack que implementa um CRUD de clientes utilizando ReactJS no frontend e Python com flask no backend. Os dados são armazenados em um JSON.
 <img width="1300" height="900" alt="crudify" src="https://github.com/user-attachments/assets/6dc0718c-e1be-4717-b4ea-263ab5eee3e3" />
 
 ## Funcionalidades:
