@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+:root{
+  --primary: #20BF55;
+  --black: #000;
+  --white: #FFF;
+  --off-white: #F5F5F5;
+  --off-white-2: #EBEBEB;
+
+  font-family: 'Varela Round', sans-serif;
+  overflow-x: hidden;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--off-white-2);
+
+  min-height: 100vh;
+}
+
+input, button{
+  font-family: 'Varela Round', sans-serif;
+}
